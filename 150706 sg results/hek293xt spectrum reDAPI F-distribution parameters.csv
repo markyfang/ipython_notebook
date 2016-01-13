@@ -1,0 +1,13 @@
+"F distribution fitted parameters, before scaling to 1"
+parameter 1:, , ,1.000000
+parameter 2:, , ,3.450746
+location:, , ,0.000000
+scaling:, , ,1.945928
+inverse gamma distribution parameters
+a:, , ,1.725373
+b:, , ,0.297845
+"F distribution fitted parameters, after scaling to 1"
+parameter 1:, , ,1.000000
+parameter 2:, , ,3.030091
+location:, , ,0.000000
+scaling:, , ,0.915641
